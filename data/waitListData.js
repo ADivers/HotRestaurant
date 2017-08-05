@@ -1,4 +1,4 @@
-var waitinglistData = [
+var waitListData = [
 
 {
 	customerName: "Ahmed",
@@ -14,4 +14,4 @@ var waitinglistData = [
 ]
 
 
-module.exports(waitinglistData);
+module.exports(waitListData);

@@ -14,4 +14,4 @@ var tableData = [
 ]
 
 
-module.exports(tableData);
+module.exports = "tableData";

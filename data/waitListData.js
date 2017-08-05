@@ -14,4 +14,4 @@ var waitListData = [
 ]
 
 
-module.exports(waitListData);
+module.exports = "waitListData";

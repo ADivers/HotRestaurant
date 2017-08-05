@@ -29,7 +29,3 @@ switch(urlParts.pathname){
 	break;
 }
 }
-
-
-tables 
-reserve

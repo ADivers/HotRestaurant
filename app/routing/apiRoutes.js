@@ -1,8 +1,8 @@
 //Api Routing
 
 //requiring a load of data
-var tableData = require("../data/tableData");
-var waitListData = require("../data/waitListData");
+var tableData = require("../../data/tableData");
+var waitListData = require("../../data/waitListData");
 
 module.exports = function(app){
 	app.get("/api/tables", function(req, res){
